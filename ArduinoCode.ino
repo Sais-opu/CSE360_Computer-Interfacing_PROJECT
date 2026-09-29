@@ -765,6 +765,7 @@ void loop() {
     bluetooth.print(F(" | "));
     printConsumeShort(bluetooth);
     bluetooth.println();
+    
   }
 
 
