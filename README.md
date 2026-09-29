@@ -8,7 +8,7 @@ The system uses an **Arduino Uno**, sensors, actuators, LCD, buzzer, and Bluetoo
 
 ## 🎥 Project Demonstration
 
-### ▶️ [Watch Project Demonstration Video](./Project-demonstrate-video/project_video.mp4)
+### ▶️ [Watch Project Demonstration Video]([./Project-demonstrate-video/project_video.mp4](https://github.com/user-attachments/assets/7ec8527b-071b-4719-8bf8-acbb99bfdff8))
 
 The complete project demonstration video is available in the repository:
 
